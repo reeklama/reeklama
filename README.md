@@ -5,7 +5,7 @@
 
 ### 🦕 About me:
 
-- 🐒 19 y.o. A student who is looking for himself in this world.
+- 🐒 20 y.o. A student who is looking for himself in this world.
 - 👓 I’m currently learning Neural Networks, Deep Learning, CyberSec, developing in fronted and various tools.
 - ⚡️ I am a tutor in programming languages ​​and informatics.
 - 🔨 I take on various freelance assignments.
